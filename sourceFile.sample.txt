@@ -1,0 +1,6 @@
+app CareWokerTestGame   = Test
+  maximages = 6
+  icon      = https://avatars3.githubusercontent.com/u/36764941?v=4
+  author    = Bycgit
+  email     = 36764941+Bycgit@users.noreply.github.com
+
