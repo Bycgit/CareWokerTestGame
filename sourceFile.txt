@@ -1,4 +1,4 @@
-app    CareWokerTestGame           =  CareRobots                                                                   
+app    CareWokerTestGame            =  CareRobots                                                                   
        author                       =  Bycgit                                                                                            
        description                  =  Adjustment 190218 Robo1                                                      
        email                        =  learninggamesgithub@gmail.com                                                                             
